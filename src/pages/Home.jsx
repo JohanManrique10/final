@@ -764,7 +764,6 @@ const Home = () => {
 
 
       
-      
 <form className="max-w-sm mx-auto">
   <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Nombre de Usuario</label>
   <div className="flex">

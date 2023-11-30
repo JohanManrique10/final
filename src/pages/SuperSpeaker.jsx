@@ -371,7 +371,7 @@ const MiniSpeaker = () => {
         >
           <section>
             <img
-              src="https://musicaymercado.org/wp-content/uploads/2018/02/bose-s1-pro-hand.jpg"
+              src="https://i.rtings.com/assets/products/DtleYwTT/bose-s1-pro-plus/design-medium.jpg"
               className="m3"
               alt="Bose"
               width="710px"

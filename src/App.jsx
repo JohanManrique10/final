@@ -13,7 +13,7 @@ const App = () => {
       <BrowserRouter>
         <Routes>
           <Route element={<Home />} path="/"></Route>
-          <Route element={<MiniSpeaker />} path="-MiniSpeaker"></Route>
+          <Route element={<MiniSpeaker />} path="/MiniSpeaker"></Route>
           <Route element={<Speaker />} path="/Speaker"></Route>
           <Route element={<SuperSpeaker />} path="/SuperSpeaker"></Route>
           <Route element={<About />} path="/About"></Route>

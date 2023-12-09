@@ -194,7 +194,7 @@ const Home = () => {
           </h1>
 
           <div className="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-            <h1>MiniSpeakers</h1>
+            
             <a href="MiniSpeaker">
               <img
                 src="https://oneaimfit.com/cdn/shop/products/Blue-Silver_600x.png?v=1649795054"
@@ -203,7 +203,7 @@ const Home = () => {
             </a>
             <div className="px-5 pb-5">
               <a href="#">
-                <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
+                <h5 className="text-xl font-semibold tracking -tight text-gray-900 dark:text-white">
                   M3 Mini - Portable Bluetooth® Speaker System
                 </h5>
               </a>
